@@ -7,7 +7,7 @@ db()
 
 
 app.listen(process.env.PORT,()=>{
-    console.log('Server Running')
+    console.log('Server Running on ')
 })
 
 module.exports = app;
